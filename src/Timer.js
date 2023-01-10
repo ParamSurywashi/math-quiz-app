@@ -24,7 +24,7 @@ let renderTime = props.intvl;
     );
   };
 
-  
+  console.log(renderTime);
 
   return (
     <>
